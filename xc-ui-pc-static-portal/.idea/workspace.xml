@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd6f70ef-b367-4dc1-9ab3-a4972a9c1ce4" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="314335623">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xc-ui-pc-static-portal" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/course/detail/course_main_template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="20" column="10" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/company/company_info_template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="81" column="31" selection-start-line="81" selection-start-column="31" selection-end-line="81" selection-end-column="31" />
+              <folding>
+                <marker date="1527326567327" expanded="true" signature="4127:4236" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4378">
+              <caret line="214" column="17" selection-start-line="214" selection-start-column="17" selection-end-line="214" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>picker</find>
+      <find>upload</find>
+      <find>fileList</find>
+      <find>uploadFile</find>
+      <find>fileMd5</find>
+      <find>alert(</find>
+      <find>uploader</find>
+      <find>上传文件失败，请刷新页面重试</find>
+      <find>loginFormVisible</find>
+      <find>login</find>
+      <find>user.</find>
+      <find>getActiveUser</find>
+      <find>checkActiveUser</find>
+      <find>logout</find>
+      <find>getUserSession</find>
+      <find>user</find>
+      <find>getUserInfoFromJwt</find>
+      <find>欢迎</find>
+      <find>setUserSession</find>
+      <find>learnstatus</find>
+      <find>queryCompanyStat</find>
+      <find>showlogin</find>
+      <find>delUserSession</find>
+      <find>createOrder</find>
+      <find>getLearnstatus</find>
+      <find>popup-box</find>
+      <find>headVm</find>
+      <find>buy</find>
+      <find>Message</find>
+      <find>#include</find>
+    </findStrings>
+    <dirStrings>
+      <dir>F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/include/index_banner.html" />
+        <option value="$PROJECT_DIR$/test.json" />
+        <option value="$PROJECT_DIR$/ckplayer.html" />
+        <option value="$PROJECT_DIR$/plugins/ckplayer/ckplayer.js" />
+        <option value="$PROJECT_DIR$/video.html" />
+        <option value="$PROJECT_DIR$/upload.html" />
+        <option value="$PROJECT_DIR$/uploadtest2.html" />
+        <option value="$PROJECT_DIR$/uploadmulti.html" />
+        <option value="$PROJECT_DIR$/uploadtest.html" />
+        <option value="$PROJECT_DIR$/js/login.js" />
+        <option value="$PROJECT_DIR$/js/util.js" />
+        <option value="$PROJECT_DIR$/js/order.js" />
+        <option value="$PROJECT_DIR$/include/course_detail_dynamic.html" />
+        <option value="$PROJECT_DIR$/course/detail/4028e58161bd22e60161bd23672a0001.html" />
+        <option value="$PROJECT_DIR$/course/detail/402885816243d2dd016243f24c030002.html" />
+        <option value="$PROJECT_DIR$/include/header.html" />
+        <option value="$PROJECT_DIR$/js/public.js" />
+        <option value="$PROJECT_DIR$/company/company_info_template.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/plugins/bootstrap/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/JSV/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/acorn-globals/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/acorn-globals/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/agent-base/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/agent-base/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/archiver-utils/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/archiver-utils/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/archiver/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/archiver/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/archiver/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/argparse/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/array-differ/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/array-find-index/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/array-union/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/array-uniq/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/arrify/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/autoprefixer-core/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/babel-runtime/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/babylon/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/basic-auth/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/batch/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/bl/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/body-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/body-parser/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/body-parser/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/body-parser/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/body-parser/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/boom/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/browserify-zlib/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/browserify-zlib/test/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/btoa/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/buffer-crc32/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/builtin-modules/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/camel-case/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/camelcase-keys/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/caniuse-db/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/change-case/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/character-parser/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/clean-css/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/cli-table/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/cli-table/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/cli/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/cli/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/coffee-script/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/comment-parser/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/compress-commons/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/concat-stream/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/connect-livereload/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/connect/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/console-browserify/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/constant-case/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/constantinople/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/crc/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/crc32-stream/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/cryptiles/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/csscomb-core/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/csscomb-core/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/csscomb/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/csscomb/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/csslint/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/cst/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/currently-unhandled/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/cycle/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/dashdash/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/date-now/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/date-time/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/dateformat/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/diff/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/doctypes/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/dom-serializer/node_modules/entities/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/dom-serializer/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/domhandler/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/domutils/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/dot-case/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/entities/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/errno/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/error-ex/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/es6-promise/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/estraverse/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/eventemitter2/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/exit/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/extract-zip/node_modules/concat-stream/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/extract-zip/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/extract-zip/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/extract-zip/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/extract-zip/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/extract-zip/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/extract-zip/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/eyes/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/faye-websocket/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/fd-slicer/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/fg-lodash/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/fg-lodash/node_modules/underscore.string/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/fg-lodash/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/figures/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/file-sync-cmp/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/findup-sync/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/findup-sync/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/fs-extra/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/function-bind/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/gaze/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/generate-function/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/generate-object-property/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/get-stdin/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/getobject/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/getpass/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/globule/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/globule/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/globule/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/gonzales-pe/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/graceful-readlink/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-autoprefixer/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-autoprefixer/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-autoprefixer/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-autoprefixer/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-autoprefixer/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-autoprefixer/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-contrib-clean/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-contrib-clean/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-contrib-compress/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-contrib-compress/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-contrib-concat/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-contrib-concat/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-contrib-connect/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-contrib-copy/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-contrib-csslint/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-contrib-cssmin/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-contrib-htmlmin/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-contrib-jshint/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-contrib-less/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-contrib-less/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-contrib-pug/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-contrib-qunit/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-contrib-uglify/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-contrib-uglify/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-contrib-watch/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-csscomb/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-exec/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-html/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-jekyll/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-jscs/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-jscs/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-known-options/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-legacy-log-utils/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-legacy-log-utils/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-legacy-log/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-legacy-util/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-legacy-util/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-lib-phantomjs/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-lib-phantomjs/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-saucelabs/examples/custom/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-saucelabs/examples/jasmine/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-saucelabs/examples/mocha/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-saucelabs/examples/qunit/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-saucelabs/examples/yui/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-saucelabs/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-saucelabs/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt-saucelabs/test/mocha/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt/node_modules/grunt-cli/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/grunt/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/gzip-size/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/has-color/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/has/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/hasha/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/hawk/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/he/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/header-case/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/hoek/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/hooker/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/hosted-git-info/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/html-minifier/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/html-minifier/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/htmlparser2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/htmlparser2/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/htmlparser2/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/htmlparser2/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/http2/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/https-proxy-agent/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/i/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/image-size/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/indent-string/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/inherit/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/interpret/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/is-arrayish/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/is-builtin-module/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/is-expression/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/is-finite/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/is-lower-case/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/is-my-json-valid/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/is-property/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/is-regex/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/is-upper-case/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/is-utf8/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/isexe/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/js-base64/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/js-stringify/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/js-yaml/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jscs-jsdoc/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jscs-preset-wikimedia/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jscs/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jscs/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jscs/node_modules/js-yaml/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jscs/node_modules/uuid/benchmark/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jscs/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jscs/node_modules/vow-fs/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jscs/node_modules/vow-fs/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jscs/node_modules/vow-queue/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jscs/node_modules/vow/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jscs/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jsdoctypeparser/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jshint/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jshint/node_modules/shelljs/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jshint/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jsonfile/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jsonify/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jsonlint/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jsonpointer/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jsprim/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/jstransformer/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/kew/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/klaw/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/lazystream/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/less/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/less/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/linkify-it/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/livereload-js/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/load-grunt-tasks/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/load-json-file/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/loud-rejection/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/lower-case-first/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/lower-case/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/map-obj/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/markdown-it/node_modules/entities/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/markdown-it/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/maxmin/node_modules/pretty-bytes/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/maxmin/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/mdurl/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/meow/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/mkdirp/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/morgan/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/multimatch/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/mute-stream/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/natural-compare/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/ncname/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/ncp/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/no-case/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/node-uuid/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/nomnom/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/nomnom/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/nomnom/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/nomnom/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/normalize-package-data/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/normalize-path/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/num2fraction/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/opn/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/package/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/package/test/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/package/test/support/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/pako/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/param-case/package.json" />
+      <path value="$PROJECT_DIR$/plugins/bootstrap/node_modules/parse-json/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-6" />
+    <option name="y" value="-6" />
+    <option name="width" value="1374" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xc-ui-pc-static-portal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xc-ui-pc-static-portal" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal" />
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal\js" />
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal\include" />
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal\plugins\webuploader" />
+      <recent name="F:\eduprojects\xc-edu-snapshotv1.0\xc-ui-pc-static-portal\plugins\ckplayer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd6f70ef-b367-4dc1-9ab3-a4972a9c1ce4" name="Default" comment="" />
+      <created>1522380484107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522380484107</updated>
+      <workItem from="1522380485408" duration="3321000" />
+      <workItem from="1522508971246" duration="774000" />
+      <workItem from="1523427826704" duration="1327000" />
+      <workItem from="1524130929472" duration="1877000" />
+      <workItem from="1524879081123" duration="42000" />
+      <workItem from="1525783769466" duration="7861000" />
+      <workItem from="1525855065000" duration="1553000" />
+      <workItem from="1525875545751" duration="590000" />
+      <workItem from="1525919502156" duration="32220000" />
+      <workItem from="1526894397864" duration="9476000" />
+      <workItem from="1526977959394" duration="13563000" />
+      <workItem from="1527237696038" duration="16456000" />
+      <workItem from="1527865495024" duration="667000" />
+      <workItem from="1527923954209" duration="1626000" />
+      <workItem from="1528153794416" duration="4484000" />
+      <workItem from="1528173396953" duration="621000" />
+      <workItem from="1528190447746" duration="8000" />
+      <workItem from="1528249696513" duration="770000" />
+      <workItem from="1608109122611" duration="683000" />
+      <workItem from="1609318534103" duration="991000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="98910000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.1731533" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.015652174" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1731533" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.015652174" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/include/footer.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/index_banner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.json" />
+    <entry file="file://$PROJECT_DIR$/plugins/videojs/videojs-contrib-hls.min.js" />
+    <entry file="file://$PROJECT_DIR$/plugins/videojs/video-js.min.css" />
+    <entry file="file://$PROJECT_DIR$/plugins/ckplayer/style.xml" />
+    <entry file="file://$PROJECT_DIR$/plugins/ckplayer/ckplayer.js" />
+    <entry file="file://$PROJECT_DIR$/ckplayer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-666">
+          <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/videojs/video-js.css" />
+    <entry file="file://$PROJECT_DIR$/plugins/videojs/videojs-contrib-hls.js" />
+    <entry file="file://$PROJECT_DIR$/plugins/videojs/video.js" />
+    <entry file="file://$PROJECT_DIR$/video.html" />
+    <entry file="file://$PROJECT_DIR$/uploadcopy.html" />
+    <entry file="file://$PROJECT_DIR$/plugins/webuploader/dist/webuploader.js" />
+    <entry file="file://$PROJECT_DIR$/upload.html" />
+    <entry file="file://$PROJECT_DIR$/plugins/jquery/dist/jquery.js" />
+    <entry file="file://$PROJECT_DIR$/uploadmulti.html" />
+    <entry file="file://$PROJECT_DIR$/plugins/webuploader/webuploader.css" />
+    <entry file="file://$PROJECT_DIR$/uploadtest.html" />
+    <entry file="file://$PROJECT_DIR$/include/course_detail_dynamic1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/course_detail_side.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jwt-decode/jwt-decode.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1977" selection-start-column="1977" selection-end-column="1977" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/qs.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/querystring/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stat/course/course_stat_template.json" />
+    <entry file="file://$PROJECT_DIR$/js/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/detail/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/detail/4028e58161bd3b380161bd3bcd2f0000.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/detail/4028e58161bd22e60161bd23672a0001.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13772">
+          <caret line="656" column="4" selection-start-line="656" selection-start-column="4" selection-end-line="656" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/course_detail_dynamic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5610">
+          <caret line="255" column="34" selection-start-line="255" selection-start-column="34" selection-end-line="255" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/preview/preview_402885816243d2dd016243f24c030002.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/detail/402885816243d2dd016243f24c030002.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14146">
+          <caret line="643" column="7" selection-start-line="643" selection-start-column="7" selection-end-line="643" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/el/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret column="427644" selection-start-column="427644" selection-end-column="427644" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/order.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="3" selection-start-line="3" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/public.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/teacher_info_template02.html" />
+    <entry file="file://$PROJECT_DIR$/teacher/teacher_info_template01.html" />
+    <entry file="file://$PROJECT_DIR$/stat/company/company_stat_template.json" />
+    <entry file="file://$PROJECT_DIR$/stat/course/course_stat_297e7c7c62b888f00162b8a7dec20000.json" />
+    <entry file="file://$PROJECT_DIR$/res/category.json" />
+    <entry file="file://$PROJECT_DIR$/img/asset-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course/detail/course_main_template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="81" column="31" selection-start-line="81" selection-start-column="31" selection-end-line="81" selection-end-column="31" />
+          <folding>
+            <marker date="1527326567327" expanded="true" signature="4127:4236" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/company/company_info_template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4378">
+          <caret line="214" column="17" selection-start-line="214" selection-start-column="17" selection-end-line="214" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
